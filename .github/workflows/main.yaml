@@ -9,4 +9,4 @@ jobs:
 
     steps:
     - name: echo the date
-      run: echo "The current time and date in GitHub is $(date)"
+      run: echo "The current times and date in GitHub is $(date)"
